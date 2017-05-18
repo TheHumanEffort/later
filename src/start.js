@@ -5,7 +5,7 @@
 * For all details and documentation:
 *     http://bunkat.github.com/later
 */
-later = (function() {
+module.exports = (function() {
   'use strict';
 
   var later = {version: "1.2.0"}; // semver
